@@ -1,0 +1,28 @@
+{
+  "name": "loginsignupauthenticator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leahcimzil/Login-Signup-Authenticator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leahcimzil/Login-Signup-Authenticator/issues"
+  },
+  "homepage": "https://github.com/leahcimzil/Login-Signup-Authenticator#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "mongoose": "^6.4.1",
+    "nodemon": "^2.0.18"
+  },
+  "devDependencies": {}
+}
